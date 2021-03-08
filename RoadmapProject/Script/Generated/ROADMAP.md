@@ -150,7 +150,7 @@ Tapping on a link will take you to relevant materials.
         - [ ] `Version Control Systems`
             - [ ] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
         - [ ] Debugging
-            - [ ] [Instruments](Resources/iOS_Developer/Practical_knowledge/Debugging/Instruments/RESOURCES.md)
+            - [x] [Instruments](Resources/iOS_Developer/Practical_knowledge/Debugging/Instruments/RESOURCES.md)
             - [ ] Best practices
                 - [ ] Checklists
         - [ ] UX
